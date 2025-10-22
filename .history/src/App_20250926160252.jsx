@@ -1,0 +1,1 @@
+import Pokemonlist from "./components/pokemonist/pokemonList";

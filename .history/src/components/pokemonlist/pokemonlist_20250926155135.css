@@ -1,0 +1,15 @@
+.list-pokemon{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin: 100px auto;
+}
+
+.search{
+    display:block;
+    width:60vh;
+    padding:15px;
+    margin:50px auto 50px;
+    font-size:
+}

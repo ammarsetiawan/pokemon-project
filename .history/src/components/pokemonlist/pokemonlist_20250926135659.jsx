@@ -1,0 +1,22 @@
+import pokemonjson from '../../pokemon.json'
+import Pokemonitem from '../pokemonitem/pokemonitem';
+
+import "./pokemonlist.css"
+
+function Pokemonlist(){
+    const [pokemons] = useState(pokemonjson);
+
+return (
+    <div>
+<div className='list-pokemon'>
+    {pokemons.map((item) => (
+        <h1>{item.name}</h1>
+        <Pokemonitem
+        
+    ))}
+    </div>
+    </div>
+    );
+}
+export default Pokemonlist;
+

@@ -1,0 +1,2 @@
+import "./PokemonItem.css";
+

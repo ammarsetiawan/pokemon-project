@@ -1,0 +1,3 @@
+import "./pokemonitem.css";
+
+fu
