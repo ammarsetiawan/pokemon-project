@@ -5,7 +5,7 @@
   height:74px;
   width:100%;
   background:rgb(80, 86, 114);
-  border-radius:0px 0px 50px 50px;
+  border-radius:0px 0px 50px 60px;
 padding:20px;
 display:flex;
 justify-content:center;
@@ -22,7 +22,7 @@ align-items:center;
   height:100%;
   width:14vh;
   /* border:2px solid black; */
-  font-size:25px;
+  font-size:30px;
   font-family:comic book;
   color:white;
 text-decoration:none;

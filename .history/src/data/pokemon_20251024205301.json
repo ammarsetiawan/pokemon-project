@@ -2900,7 +2900,7 @@
  "color": "#edc5c3"
   },
   {
-    "id": 71,
+    "id": 70,
     "name": "Cinderace",
     "genus": "Mole Pokémon",
     "description": "Infused with Cinderace’s fighting spirit, the gigantic Pyro Ball never misses its targets and completely roasts opponents.",
@@ -2935,7 +2935,7 @@
     "color": "#f8e3be"
 },
   {
-    "id": 72,
+    "id": 71,
     "name": "Mr. Mime",
     "genus": "Mole Pokémon",
     "description": "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
@@ -2970,7 +2970,7 @@
  "color": "#f4eff7"
 },
 {
-    "id": 73,
+    "id": 72,
     "name": "Glalie",
     "genus": "Mole Pokémon",
     "description": "Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they’re in that frozen state, it gobbles them up.",
