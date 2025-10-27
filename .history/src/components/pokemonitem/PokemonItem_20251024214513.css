@@ -1,7 +1,6 @@
-   p::selection {
-        color: white;
-        background: rgb(80, 86, 114);
-      }
+*::selection{
+color:black;
+}
 
 .pokemon-card {
   width: 320px;

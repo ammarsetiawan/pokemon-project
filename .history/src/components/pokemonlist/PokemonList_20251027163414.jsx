@@ -6,7 +6,7 @@ import PokemonItem from "../PokemonItem/PokemonItem";
 
 
 
-function PokemonList() {// utkiutktkttuktktkyyiyiy
+function PokemonList() {// utkiutktkttuktktk
   const [pokemons] = useState(pokemonJSON);
   const [filterPokemons, setFilterPokemons] = useState(pokemonJSON);
 

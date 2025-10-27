@@ -1,5 +1,5 @@
    footer::selection {
-        color: black;
+        color: blac;
         background: antiquewhite;
       }
 
@@ -39,6 +39,7 @@ text-decoration:none;
   transition:0.5s ease-in-out; 
   background:antiquewhite;
   border-radius:30px;
+  
 }
 
 .im{

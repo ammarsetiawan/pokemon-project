@@ -1,6 +1,6 @@
-   p::selection {
+   h::selection {
         color: white;
-        background: rgb(80, 86, 114);
+        background: black;
       }
 
 .pokemon-card {
