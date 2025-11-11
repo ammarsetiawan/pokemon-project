@@ -1,0 +1,6 @@
+import "./pokemonitem.css";
+
+function Pokemonitem({ pokemon }){
+    return(
+        <divclas></div>
+    )

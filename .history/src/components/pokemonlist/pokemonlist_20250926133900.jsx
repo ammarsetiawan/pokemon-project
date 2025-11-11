@@ -1,0 +1,9 @@
+import pokemonjson from '../../pokemon.json'
+
+import "./pokemonlist.css"
+
+function Pokemonlist(){
+    const [pokemons] = useState(pokemonjson);
+
+
+    
