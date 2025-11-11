@@ -96,7 +96,6 @@ text-decoration:none;
   border-radius: 20px;
   border: 2px solid black;
   animation: down 0.7s ease-in-out;
-  /* transition: 0.4s ease-in-out; */
 }
 
 .search:active{
@@ -132,12 +131,10 @@ text-decoration:none;
   width: 100%;
   display: inline-block;
 }
-//tombol nav-footer//
 .button-footer{
 width:50px;
 
 }
-/* From Uiverse.io by PapaUiiss404 */ 
 .card {
 
   margin-top:25px;
