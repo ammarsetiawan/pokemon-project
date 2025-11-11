@@ -5,7 +5,9 @@ import { colours } from "../../data/colours";
 function PokemonItem({ pokemon }) {
   return (
 
-        <div 
+    <div 
+      onClick={pokemon.url_pokemon}
+      h
         className="pokemon-card"
         style={{
         backgroundColor: `${pokemon.color}`,
