@@ -1,5 +1,5 @@
 import { useState, } from "react";
-import  pokemonJSON from "../../data/pokemon.json";
+ import  pokemonJSON from "../../data/pokemon.json";
 
 import "./PokemonList.css";
 import PokemonItem from "../PokemonItem/PokemonItem";
@@ -24,15 +24,13 @@ function PokemonList() {// utkiutktkttuktktkyyiyiy
     <div className="background-pokemon"  >
 
       <div className="menu">
-    <a className="nav"href="https://ammarsetiawan.github.io/portofoio/">Home</a><h1>I</h1>
+    <a className="nav"href="https://ammarsetiawan.github.io/portofolio/">Home</a><h1>I</h1>
     <a className="nav"href="#about">About</a>
       </div>
-
-      
       <input type="text" placeholder="cari pokemon..." className="search" onChange={handleSearch} />
    
       <div className="i">
-        <img className="im" src="src/assets/Gemini_Generated_Image_rcj1qlrcj1qlrcj1-removebg-preview.png" alt="" />
+      <img className="im" src="src/assets/Gemini_Generated_Image_rcj1qlrcj1qlrcj1-removebg-preview.png" alt="" />
       </div>
      
       <div className="list-pokemon">
@@ -51,12 +49,9 @@ function PokemonList() {// utkiutktkttuktktkyyiyiy
         <div className="garis">
           
   </div>
-          
         <div className="text-footer">
-
   ini adalah web list pokemon ini adalah web gabut untuk tugas
   programing <span>(AMMAR)</span>
-
           </div>
 <div className="button-footer">
 
