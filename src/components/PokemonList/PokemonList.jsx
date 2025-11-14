@@ -32,7 +32,7 @@ function PokemonList() {// utkiutktkttuktktkyyiyiy
       <input type="text" placeholder="cari pokemon..." className="search" onChange={handleSearch} />
    
       <div className="i">
-      <img className="im" src="src/assets/Gemini_Generated_Image_rcj1qlrcj1qlrcj1-removebg-preview.png" alt="" />
+       <img className="im" src="src/assets/Gemini_Generated_Image_rcj1qlrcj1qlrcj1-removebg-preview.png" alt="" />
       </div>
      
       <div className="list-pokemon">
