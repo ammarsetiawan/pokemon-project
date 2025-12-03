@@ -13,7 +13,9 @@ function PokemonItem({ pokemon }) {
         backgroundColor: `${pokemon.color}`,
       }}
     >
+            <a className="link" href={pokemon.url_pokemon}>
       <img className="img" src={pokemon.imageUrl} alt={pokemon.name}  />
+      <p className="description">{pokemon.description}</p>
       
       <h1>{pokemon.name}</h1>
       <div className="types-container">
@@ -31,8 +33,6 @@ function PokemonItem({ pokemon }) {
           </span>
         ))}
       </div>
-            <a className="link" href={pokemon.url_pokemon}>
-      <p className="description">{pokemon.description}</p>
         </a>
     </div>
         
